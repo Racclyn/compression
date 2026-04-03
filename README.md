@@ -1,0 +1,2 @@
+My overall very work in progress arithmetic compression based scheme. It's currently quite good at general purpose compression from benchmarks, but I want to support multimedia codecs down the road if I get around to it. Additionally, it's a lot of multithreaded code. 
+That being said, due to the computational requirements, I do not know if it's possible to apply this for at runtime decompression of multimedia, say video yet.
